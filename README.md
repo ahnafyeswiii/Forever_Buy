@@ -1,25 +1,27 @@
-# Project Name
+# Foreverbuy – E-Commerce Website
 
-A full-stack web application that [briefly describe what it does, e.g., "helps users manage their daily tasks efficiently using a clean and responsive interface."]
+**Foreverbuy** is a modern, responsive full-stack e-commerce web application built to provide a seamless online shopping experience. The platform allows users to browse products, manage their cart, and place orders, while the admin can manage inventory and product listings.
 
-## 🚀 Features
+## 🌟 Features
 
-- User authentication and session management
-- CRUD operations for [e.g., tasks, posts, products]
-- Responsive UI using [HTML/CSS/Bootstrap/React/etc.]
-- RESTful API built with [Node.js/Express/Flask/etc.]
-- Data persistence using [MongoDB/MySQL/PostgreSQL/etc.]
+- User-friendly home, product listing, and detail pages
+- Add to cart, quantity adjustment, and order placement
+- Secure user authentication & session handling
+- Admin dashboard for managing products and inventory
+- Responsive design optimized for both desktop and mobile
 
 ## 🛠 Tech Stack
 
 **Frontend:**
 - HTML, CSS, JavaScript
-- [Optional: React / Bootstrap / Tailwind CSS]
+- Bootstrap (for responsive layout and UI components)
 
 **Backend:**
-- [Node.js / Express.js / Flask / Django]
+- PHP (for server-side scripting)
+- MySQL (for database management)
 
-**Database:**
-- [MongoDB / MySQL / PostgreSQL / SQLite]
-
+**Others:**
+- Apache Server / XAMPP (local dev)
+- cPanel (for deployment)
+- GitHub (for version control)
 
